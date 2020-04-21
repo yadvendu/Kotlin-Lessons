@@ -6,7 +6,6 @@ class XYZ(){
 
 fun abc(obj:XYZ){
     println(obj.name)
-    val checkedInputStream:String
 }
 
 fun main(args:Array<String>){
