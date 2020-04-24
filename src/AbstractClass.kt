@@ -4,7 +4,7 @@ abstract class Person(var name:String){
     }
 
     fun displayWorkLocation(place:String){
-        println("My work place is: $place ")
+        println("My work place is: $place")
     }
 
     abstract fun displayJobTile(designation:String)
